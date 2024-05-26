@@ -5,6 +5,8 @@
     padding: 24px;
     width: 440px;
     height: 888px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .item {
