@@ -1,0 +1,55 @@
+.controls {
+    margin-top: 50px;
+    margin-left: 500px;
+    border-radius: 8px;
+    padding: 32px;
+    width: 486px;
+    height: 104px;
+    background: #f6f6fe;
+}
+
+.input {
+    border: 1px solid #808080;
+    border-radius: 8px;
+    padding: 8px 16px;
+    width: 150px;
+    height: 40px;
+   background-color: inherit;
+  
+
+}
+
+.create-btn {
+    border: none;
+    border-radius: 8px;
+    padding: 8px 16px;
+    width: 120px;
+    height: 40px;
+    background: #4e75ff;
+   font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #fff;
+}
+
+.destroy-btn {
+    border: none;
+    border-radius: 8px;
+    padding: 8px 16px;
+    width: 120px;
+    height: 40px;
+    background: #ff4e4e;
+  font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #fff;
+}
+
+.boxes {
+    width: 486px;
+    margin-left: 500px;
+    background: #f6f6fe;
+}
+
